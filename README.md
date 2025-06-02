@@ -2,8 +2,7 @@
 
 Data analytics and dashboard project built with Power BI using electric vehicle registration data. Includes filtering by vehicle type, make, city, and more.
 --- 
-![Dashboard](https://example.com/image.png)
-
+dashboard.png
 ## Electric Vehicle Population Analysis - Washington State
 
 ### Introduction  
